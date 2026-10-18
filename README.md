@@ -27,7 +27,7 @@ I'm a 3rd-year CSE student building toward an AI/ML engineering role. This repo 
 ## How to run
 
 ```bash
-git clone https://github.com/<YOUR-GITHUB-USERNAME>/ml-foundations.git
+git clone https://github.com/Kanishktyson/ml-foundations.git
 cd ml-foundations
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
