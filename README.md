@@ -1,8 +1,8 @@
 # 🧱 ml-foundations
 
-My foundations repo — Python, pandas, SQL, scikit-learn, built in public, one commit a day.
+My foundations repo — Python, pandas, SQL, scikit-learn, built in public, one week at a time.
 
-**Started:** 17 Oct 2026 · **Goal:** by 1 Nov 2026 I can clean a dataset, train a model, and explain every line out loud.
+**Started:** 17 Oct 2026 · **Reset:** 24 Nov 2026 — the first attempt stalled after week 0 was announced. New cadence: **one week = one topic, no daily streak promises.** When the folder ships, the row flips. Not before.
 
 ---
 
@@ -12,15 +12,15 @@ I'm a 3rd-year CSE student building toward an AI/ML engineering role. This repo 
 
 ---
 
-## Roadmap
+## Roadmap (reset 24 Nov)
 
 | Week | Dates | Topic | Folder | Status |
 |---|---|---|---|---|
-| 0 | 18–24 Oct | Python drills — loops, functions, file I/O | `week-00-python/` | 🔜 |
-| 1 | 25–31 Oct | pandas on a real dataset — `.info()`, `.describe()`, 3 plots | `week-01-pandas/` | ⬜ |
-| 2 | 1–7 Nov | SQL basics (SQLBolt 1–4) + 10 queries on that data | `week-02-sql/` | ⬜ |
-| 3 | 8–14 Nov | scikit-learn — 2 models, compare in a metrics table | `week-03-sklearn/` | ⬜ |
-| 4 | 15–21 Nov | Mini-project plan → feeds P1 | `week-04-plan/` | ⬜ |
+| 0 | ✅ done 24 Nov | Python drills — loops, functions, file I/O | [`week-00-python/`](week-00-python/) | ✅ |
+| 1 | 24–30 Nov | pandas on a real dataset — `.info()`, `.describe()`, 3 plots | `week-01-pandas/` | ⬜ |
+| 2 | 1–7 Dec | SQL basics (SQLBolt 1–4) + 10 queries on that data | `week-02-sql/` | ⬜ |
+| 3 | 8–14 Dec | scikit-learn — 2 models, compare in a metrics table | `week-03-sklearn/` | ⬜ |
+| 4 | 15–21 Dec | Mini-project plan → feeds P1 | `week-04-plan/` | ⬜ |
 
 ---
 
@@ -35,18 +35,19 @@ pip install -r requirements.txt
 
 ---
 
-## Rules I'm keeping
+## Rules I'm keeping (revised)
 
-- ✅ One commit a day, even if it's two lines
+- ✅ One commit per week minimum — small and shipped beats grand and imaginary
 - ✅ Every folder has a `NOTES.md` — what broke and what I learned
 - ✅ No secrets in code, ever
 - ✅ Nothing claimed that isn't pushed and running
+- ✅ A row only flips to ✅ when the folder exists
 
 ---
 
 ## Progress
 
-- [ ] Week 0 — Python drills
+- [x] Week 0 — Python drills
 - [ ] Week 1 — pandas
 - [ ] Week 2 — SQL
 - [ ] Week 3 — scikit-learn
